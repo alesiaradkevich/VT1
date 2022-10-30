@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69c099b8-bdb1-49cc-a717-bcda4b42f5e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab1/tasks/Tasks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/module-info.java" beforeDir="false" />
+    <list default="true" id="69c099b8-bdb1-49cc-a717-bcda4b42f5e4" name="Changes" comment="implementation of tasks 1-8">
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab1/task9/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab1/task9/Basket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab1/task9/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bsuir/wt/lab1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +51,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667118000089</updated>
     </task>
+    <task id="LOCAL-00001" summary="implementation of tasks 1-8">
+      <created>1667122071499</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667122071499</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,6 +73,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="implementation of tasks 1-8" />
+    <option name="LAST_COMMIT_MESSAGE" value="implementation of tasks 1-8" />
   </component>
 </project>
