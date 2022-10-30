@@ -4,6 +4,10 @@ import by.bsuir.wt.lab1.tasks.Tasks;
 import by.bsuir.wt.lab1.task9.Basket;
 import by.bsuir.wt.lab1.task9.Ball;
 import  by.bsuir.wt.lab1.task9.Color;
+import by.bsuir.wt.lab1.book.Book;
+import by.bsuir.wt.lab1.book.ProgrammerBook;
+import java.util.TreeSet;
+
 public class Main {
     public static void main (String args[]){
         Tasks tasks = new Tasks();
@@ -30,5 +34,14 @@ public class Main {
         basket.addBall(4.33, Color.Blue);
         System.out.println("Total number of blue balls: " + basket.getNumColoredBalls(Color.Blue));
         System.out.println("Total balls weight: " + basket.getWeight());
+
+        TreeSet<Book> books = new TreeSet<Book>(Book.compareByTitle);
+        books.add(new Book("The bird", "Doshilo", 33, 2));
+        books.add(new Book("To pray3", "Suji", 25, 1));
+        books.add(new Book("To pray", "Suji", 25, 12));
+
+        for (Book book: books) {
+            System.out.println(book.toString());
+        }
     }
 }

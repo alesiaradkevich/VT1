@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69c099b8-bdb1-49cc-a717-bcda4b42f5e4" name="Changes" comment="implementation of tasks 1-8">
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab1/task9/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab1/task9/Basket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab1/task9/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab1/book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab1/book/ProgrammerBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/by/bsuir/wt/lab1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab1/Main.java" afterDir="false" />
     </list>
@@ -26,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2GqZIZMNiPB4aQPvd3g70poOc8g" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,6 +41,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
@@ -50,6 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667118000089</updated>
+      <workItem from="1667153140343" duration="822000" />
     </task>
     <task id="LOCAL-00001" summary="implementation of tasks 1-8">
       <created>1667122071499</created>
@@ -60,6 +65,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
